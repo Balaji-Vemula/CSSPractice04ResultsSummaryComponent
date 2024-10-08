@@ -30,7 +30,7 @@
 
 
 p {
-    font-size: 15px;
+    font-size: 18px;
     max-width: 250px;
     color: var(--Light-lavender);
 }
@@ -49,6 +49,7 @@ main{
 }
 
 .result{
+    width:25%;
     background-image: linear-gradient(var(--Light-slate-blue), var(--Light-royal-blue));
     display: flex;
     flex-direction: column;
@@ -95,6 +96,6 @@ main{
 
 .description {
     text-align: center;
-    width: 85%;
     font-weight: 500;
 }
+
